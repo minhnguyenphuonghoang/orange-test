@@ -1,0 +1,7 @@
+pytest
+selenium
+pytest-bdd
+allure-pytest
+webdriver-manager
+black
+flake8
