@@ -1,0 +1,6 @@
+{
+  "browser": "chrome",
+  "headless": false,
+  "implicit_wait": 5,
+  "base_url": "https://opensource-demo.orangehrmlive.com/"
+}
